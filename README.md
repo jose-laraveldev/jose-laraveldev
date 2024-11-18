@@ -17,9 +17,6 @@
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=green)
 ![VueJS](https://img.shields.io/badge/Vue%20js-35495E?style=flat&logo=vuedotjs&logoColor=4FC08D)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jose-caramello/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jose-caramello/" height="30" width="40" /></a>
-</p>
+
 
 
